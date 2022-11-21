@@ -39,10 +39,10 @@ const FAQ = () => {
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item className='border border-dark   mt-3' eventKey="4">
-                    <Accordion.Header> What dose Provides Skillshare Academy?
+                    <Accordion.Header> What dose Provides The Learning HUB?
                     </Accordion.Header>
                     <Accordion.Body>
-                        <p>Skillshare Academy are Provides various course in reasonable price. The course of this academy are top class. Million people are very interested our courses.</p>
+                        <p>The Learning HUB are Provides various course in reasonable price. The course of this academy are top class. Million people are very interested our courses.</p>
 
                     </Accordion.Body>
                 </Accordion.Item>
